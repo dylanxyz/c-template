@@ -1,6 +1,11 @@
 # Programação em C
 
-Repositório modelo configurado para programação na linguagem C usando o Github Codespaces.
+Repositório modelo configurado para programação na linguagem C usando o Github Codespaces. Para criar
+uma cópia desse repositório na nuvem, clique no
+botão `Use this template` e selecione a opção
+`Open in a codespace`.
+
+![](docs/images/tutorial/screenshot-0.png)
 
 ## Estrutura
 
